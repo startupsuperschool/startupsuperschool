@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstartup_super_school=self.webpackChunkstartup_super_school||[]).push([[3631],{3213:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/startupsuperschool/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
